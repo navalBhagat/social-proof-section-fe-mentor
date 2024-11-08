@@ -20,12 +20,12 @@ Users should be able to:
 
 ### Screenshot
 
-![TODO](./public/images/screenshot.png)
+![](./public/images/screenshot.png)
 
 ### Links
 
 - Solution URL: [GitHub](https://github.com/navalBhagat/social-proof-section-fe-mentor)
-- Live Site URL: [Vercel - TODO](https://your-live-site-url.com)
+- Live Site URL: [Vercel](https://social-proof-section-fe-mentor.vercel.app/)
 
 ## Author
 
